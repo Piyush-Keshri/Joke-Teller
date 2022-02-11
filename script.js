@@ -48,7 +48,7 @@ async function getJokes(){
     }
     catch{
         // Catch Errors Here
-        console.log('Error',error);
+        
     }
 }
 // Event Listeners
